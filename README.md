@@ -20,3 +20,5 @@ Design of a twice-daily automated music pipeline: creation, producer-tag verific
 The pipeline runs unattended and reports every run.
 
 This repo is design documentation only. It does not claim the code is in the repo.
+
+© 2026 Razi Ismail. All rights reserved. Showcase material: architecture and documentation only.
